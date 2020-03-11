@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+demo.kaliumtheme.com	TRUE	/shop/	FALSE	1999999999	woocommerce_items_in_cart	1
+demo.kaliumtheme.com	TRUE	/shop/	FALSE	1999999999	wp_woocommerce_session_08a871286ef88b446a4de2a2b23e6205	9c9897cbaa49ef285fce420a89096701%7C%7C1573059404%7C%7C1573055804%7C%7C24656d2b06bbb6fd7a5921baacc77ad0
+demo.kaliumtheme.com	TRUE	/shop/	FALSE	1999999999	woocommerce_cart_hash	21a9dc00b995937c1cae6cb958715a40
+

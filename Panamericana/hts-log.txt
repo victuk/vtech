@@ -1,0 +1,77 @@
+HTTrack3.49-2 launched on Mon, 04 Nov 2019 17:57:19 at https://demo.kaliumtheme.com/shop/
+(httrack https://demo.kaliumtheme.com/shop/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:58:52	Warning: 	Found for https://demo.kaliumtheme.com/shop/checkout/
+17:58:52	Warning: 	File has moved from https://demo.kaliumtheme.com/shop/checkout/ to https://demo.kaliumtheme.com/shop/cart/
+18:00:21	Warning: 	Moved Permanently for https://demo.kaliumtheme.com/shop/?p=592
+18:00:21	Warning: 	File has moved from https://demo.kaliumtheme.com/shop/?p=592 to https://demo.kaliumtheme.com/shop/shop-carousel/
+18:00:32	Warning: 	Moved Permanently for https://demo.kaliumtheme.com/shop/?p=363
+18:00:32	Warning: 	File has moved from https://demo.kaliumtheme.com/shop/?p=363 to https://demo.kaliumtheme.com/shop/categories/
+18:00:35	Warning: 	Moved Permanently for https://demo.kaliumtheme.com/shop/?p=67
+18:00:35	Warning: 	File has moved from https://demo.kaliumtheme.com/shop/?p=67 to https://demo.kaliumtheme.com/shop/product/hasami-mug/
+18:00:39	Warning: 	Moved Permanently for https://demo.kaliumtheme.com/shop/?p=40
+18:00:39	Warning: 	File has moved from https://demo.kaliumtheme.com/shop/?p=40 to https://demo.kaliumtheme.com/shop/product/oak-tray/
+18:00:43	Warning: 	Moved Permanently for https://demo.kaliumtheme.com/shop/?p=99
+18:00:43	Warning: 	File has moved from https://demo.kaliumtheme.com/shop/?p=99 to https://demo.kaliumtheme.com/shop/product/cast-iron-animals/
+18:00:46	Warning: 	Moved Permanently for https://demo.kaliumtheme.com/shop/?p=76
+18:00:46	Warning: 	File has moved from https://demo.kaliumtheme.com/shop/?p=76 to https://demo.kaliumtheme.com/shop/product/charley-colors/
+18:00:46	Warning: 	Moved Permanently for https://demo.kaliumtheme.com/shop/?p=83
+18:00:46	Warning: 	File has moved from https://demo.kaliumtheme.com/shop/?p=83 to https://demo.kaliumtheme.com/shop/product/bridge-backpack/
+18:00:49	Warning: 	Moved Permanently for https://demo.kaliumtheme.com/shop/?p=37
+18:00:49	Warning: 	File has moved from https://demo.kaliumtheme.com/shop/?p=37 to https://demo.kaliumtheme.com/shop/product/boskke-cube/
+18:00:50	Warning: 	Moved Permanently for https://demo.kaliumtheme.com/shop/?p=311
+18:00:50	Warning: 	File has moved from https://demo.kaliumtheme.com/shop/?p=311 to https://demo.kaliumtheme.com/shop/product/hanging-vessel/
+18:00:50	Warning: 	Moved Permanently for https://demo.kaliumtheme.com/shop/?p=5
+18:00:50	Warning: 	File has moved from https://demo.kaliumtheme.com/shop/?p=5 to https://demo.kaliumtheme.com/shop/cart/
+18:00:50	Warning: 	Moved Permanently for https://demo.kaliumtheme.com/shop/?p=7
+18:00:50	Warning: 	File has moved from https://demo.kaliumtheme.com/shop/?p=7 to https://demo.kaliumtheme.com/shop/my-account/
+18:00:50	Warning: 	Moved Permanently for https://demo.kaliumtheme.com/shop/?p=480
+18:00:50	Warning: 	File has moved from https://demo.kaliumtheme.com/shop/?p=480 to https://demo.kaliumtheme.com/shop/order-tracking/
+18:00:50	Warning: 	Moved Permanently for https://demo.kaliumtheme.com/shop/?p=53
+18:00:50	Warning: 	File has moved from https://demo.kaliumtheme.com/shop/?p=53 to https://demo.kaliumtheme.com/shop/product/panamericana-chair/
+18:00:53	Warning: 	Moved Permanently for https://demo.kaliumtheme.com/shop/?p=312
+18:00:53	Warning: 	File has moved from https://demo.kaliumtheme.com/shop/?p=312 to https://demo.kaliumtheme.com/shop/product/nourished/
+18:00:53	Warning: 	Moved Permanently for https://demo.kaliumtheme.com/shop/?p=73
+18:00:53	Warning: 	File has moved from https://demo.kaliumtheme.com/shop/?p=73 to https://demo.kaliumtheme.com/shop/product/shapemaker/
+18:00:53	Warning: 	Moved Permanently for https://demo.kaliumtheme.com/shop/?p=102
+18:00:53	Warning: 	File has moved from https://demo.kaliumtheme.com/shop/?p=102 to https://demo.kaliumtheme.com/shop/product/the-age-of-collage/
+18:00:53	Warning: 	Moved Permanently for https://demo.kaliumtheme.com/shop/?p=103
+18:00:53	Warning: 	File has moved from https://demo.kaliumtheme.com/shop/?p=103 to https://demo.kaliumtheme.com/shop/product/sweeper-funnel/
+18:00:55	Warning: 	Moved Permanently for https://demo.kaliumtheme.com/shop/?p=104
+18:00:55	Warning: 	File has moved from https://demo.kaliumtheme.com/shop/?p=104 to https://demo.kaliumtheme.com/shop/product/stapler/
+18:00:55	Warning: 	Moved Permanently for https://demo.kaliumtheme.com/shop/?p=96
+18:00:55	Warning: 	File has moved from https://demo.kaliumtheme.com/shop/?p=96 to https://demo.kaliumtheme.com/shop/product/wolfie/
+18:00:55	Warning: 	Moved Permanently for https://demo.kaliumtheme.com/shop/?p=31
+18:00:55	Warning: 	File has moved from https://demo.kaliumtheme.com/shop/?p=31 to https://demo.kaliumtheme.com/shop/product/ninja-silhouette/
+18:00:55	Warning: 	Moved Permanently for https://demo.kaliumtheme.com/shop/?p=70
+18:00:55	Warning: 	File has moved from https://demo.kaliumtheme.com/shop/?p=70 to https://demo.kaliumtheme.com/shop/product/et66-calculator/
+18:00:57	Warning: 	Moved Permanently for https://demo.kaliumtheme.com/shop/?p=93
+18:00:57	Warning: 	File has moved from https://demo.kaliumtheme.com/shop/?p=93 to https://demo.kaliumtheme.com/shop/product/analog-clock/
+18:00:59	Warning: 	Moved Permanently for https://demo.kaliumtheme.com/shop/?p=60
+18:00:59	Warning: 	File has moved from https://demo.kaliumtheme.com/shop/?p=60 to https://demo.kaliumtheme.com/shop/product/scissors/
+18:01:00	Warning: 	Moved Permanently for https://demo.kaliumtheme.com/shop/?p=87
+18:01:00	Warning: 	File has moved from https://demo.kaliumtheme.com/shop/?p=87 to https://demo.kaliumtheme.com/shop/product/spherical-vase/
+18:01:02	Warning: 	Moved Permanently for https://demo.kaliumtheme.com/shop/?p=90
+18:01:02	Warning: 	File has moved from https://demo.kaliumtheme.com/shop/?p=90 to https://demo.kaliumtheme.com/shop/product/woo-album-3/
+18:01:02	Warning: 	Moved Permanently for https://demo.kaliumtheme.com/shop/?p=313
+18:01:02	Warning: 	File has moved from https://demo.kaliumtheme.com/shop/?p=313 to https://demo.kaliumtheme.com/shop/product/salad-bowl/
+18:01:03	Warning: 	Moved Permanently for https://demo.kaliumtheme.com/shop/?p=34
+18:01:03	Warning: 	File has moved from https://demo.kaliumtheme.com/shop/?p=34 to https://demo.kaliumtheme.com/shop/product/aaldap/
+18:01:03	Warning: 	Moved Permanently for https://demo.kaliumtheme.com/shop/?p=79
+18:01:03	Warning: 	File has moved from https://demo.kaliumtheme.com/shop/?p=79 to https://demo.kaliumtheme.com/shop/product/damn-good-advice/
+18:01:03	Warning: 	Moved Permanently for https://demo.kaliumtheme.com/shop/?p=56
+18:01:03	Warning: 	File has moved from https://demo.kaliumtheme.com/shop/?p=56 to https://demo.kaliumtheme.com/shop/product/medium-notebook/
+18:01:03	Warning: 	Moved Permanently for https://demo.kaliumtheme.com/shop/?p=47
+18:01:03	Warning: 	File has moved from https://demo.kaliumtheme.com/shop/?p=47 to https://demo.kaliumtheme.com/shop/product/standard-baggu/
+18:01:03	Warning: 	Moved Permanently for https://demo.kaliumtheme.com/shop/?p=50
+18:01:03	Warning: 	File has moved from https://demo.kaliumtheme.com/shop/?p=50 to https://demo.kaliumtheme.com/shop/product/rene-redzepi/
+18:01:03	Warning: 	Moved Permanently for https://demo.kaliumtheme.com/shop/shop/page/1/?shop-pagination-type=normal
+18:01:03	Warning: 	File has moved from https://demo.kaliumtheme.com/shop/shop/page/1/?shop-pagination-type=normal to https://demo.kaliumtheme.com/shop/shop/?shop-pagination-type=normal
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 54 seconds : 416 links scanned, 381 files written (27596944 bytes overall) [5594618 bytes received at 23908 bytes/sec], 26745844 bytes transferred using HTTP compression in 269 files, ratio 16%, 15.4 requests per connection
+(No errors, 66 warnings, 0 messages)
