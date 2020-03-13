@@ -43,7 +43,7 @@ fetch('js/functionalities/productsData.json')
 									<!--<li class="product_mark product_new">New</li>-->
 									
 								</ul>
-								</a>
+								</a><a href="#" class="btn btn-primary">View</a>
 							</div> `;
 							
     
